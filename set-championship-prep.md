@@ -1,3 +1,7 @@
+### On Preparing for a Set Championship
+
+#### _2022-05-05_
+
 I think it's pretty well established that optimism correlates with achieving good outcomes. There are a lot of ways to build up optimisim for those of us like myself who are not neccesarily naturally predisposed to it but I would say that the primary tool for doing so is reliant on sucess spirals where you set goals, achieve them, and move forward with more reason to believe in future sucess. 
 
 The Magic grind does a lot to faciliate this with qualifications to higher level events being earned through wins at your current level but for whatever reason this has not led to me building up any sort of confidence. Rather, whenever I achieved something I could observe almost in real time my expectations adjusting, leaving me unsatisfied with said achievement, and just as lacking in confidence as I was in the first place.
