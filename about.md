@@ -6,3 +6,5 @@ This page exists because marketing myself more seems like a good idea. I mean he
 
 \- [My Twitter](https://twitter.com/AndreiKlepatch)  
 \- [My Github](https://github.com/HighlyTrainedNeuralNetwork)
+
+[Back]({{ site.url }}/)
