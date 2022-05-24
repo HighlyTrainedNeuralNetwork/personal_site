@@ -5,8 +5,7 @@ While there is a lower class, I am in it, while there is a criminal element, I a
 
 — Eugene Debs
 
-  
-
 That has nothing to do with this website of mine but it sounds pretty cool, right?  
+\- [Articles](./articles.html)  
 \- [About](./about.html)  
-\- [Articles](./articles.html)
+
