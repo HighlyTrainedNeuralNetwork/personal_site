@@ -10,3 +10,5 @@ Prior to my qualification for this event I had discussed a number of times the i
 Despite this I am still glad to have competed and had that experience as a box on a checklist if nothing else. Games in the event really do feel like nothing else with competitors actually caring. I still have outs of chaining my online play experience to paper MTG via my upcoming MOCS appearance but absent that it seems that the shift in OP may make the quitting process very easy for me by preventing me from playing in any remotely meaningful events.
 
 Congratulations to people I know that did well and thanks to Henry for adding me to the team.
+
+[Home]({{ site.url }}/)

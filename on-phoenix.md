@@ -33,3 +33,5 @@ I am very high on Narset and relatively low on Jace. I am still playing one Jace
 **Playing the deck**
 
 I wish I had more to say here because it seems like what really matters. Phoenix feels like a Delver port to me though to be fair after going deep on Delver I feel that largs swathes of decks across all formats are just Delver ports. The one object level thing I would stress is carefully tracking and being flexible in regards to which of your wincons between Thing in the Ice, Phoenixes, and Timewalk you should be playing towards. Your lategame trumps what most people are doing but it is important to be cognizant of when that is not the case and you need to race much more than you typically would.
+
+[Home]({{ site.url }}/)

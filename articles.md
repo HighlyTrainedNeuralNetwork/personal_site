@@ -4,3 +4,5 @@ This is the directory page for all of my articles. For the time being I have loa
 \- [On Competing in a Set Championship](./set-championship-participation.md)  
 \- [On Preparing for a Set Championship](./set-championship-prep.md)  
 \- [On Phoenix in Pioneer](./on-phoenix.md)
+
+[Back]({{ site.url }}/)
