@@ -1,5 +1,6 @@
 ### Articles
 
+\- [Against Level Ups](/articles/against-level-ups)  
 \- [Article Ideas](./article-ideas.md)  
 \- [On Phoenix in Pioneer Redux](./on-phoenix-redux.md)  
 \- [On Competing in a Set Championship](./set-championship-participation.md)  
