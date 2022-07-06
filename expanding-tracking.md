@@ -1,4 +1,4 @@
-### On Expanding What You Are Tracking In Your Head
+### On Expanding What You Are Tracking in Your Head
 
 #### _2022-07-05_
 
