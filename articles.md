@@ -1,5 +1,6 @@
 ### Articles
 
+\- [On Expanding What You Are Tracking In Your Head](./expanding-tracking.md)  
 \- [Against Level Ups](./against-level-ups)  
 \- [Article Ideas](./article-ideas.md)  
 \- [On Phoenix in Pioneer Redux](./on-phoenix-redux.md)  
